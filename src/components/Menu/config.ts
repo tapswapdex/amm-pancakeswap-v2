@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://tapsdoge.netlify.app/#/',
+    href: 'https://pancakeswapv2.tapswap.finance/#/',
   },
   // {
   //   label: 'Trade (New with APE)',
@@ -77,17 +77,17 @@ const config: MenuEntry[] = [
   {
     label: 'Lake Farms',
     icon: 'FarmIcon',
-    href: 'https://tapsdoge.netlify.app/#/farms',
+    href: 'https://pancakeswapv2.tapswap.finance/#/farms',
   },
   {
     label: 'Oasis Pools',
     icon: 'PoolIcon',
-    href: 'https://tapsdoge.netlify.app/#/pools',
+    href: 'https://pancakeswapv2.tapswap.finance/#/pools',
   },
   {
     label: 'Smart Faucet',
     icon: 'BushIcon',
-    href: 'https://tapsdoge.netlify.app/#/bush',
+    href: 'https://pancakeswapv2.tapswap.finance/#/bush',
   },
   // {
   //   label: 'Techrate Audit',
