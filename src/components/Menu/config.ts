@@ -31,12 +31,12 @@ const config: MenuEntry[] = [
       {
         label: 'Exchange',
         href:
-          'https://tapswape2.netlify.app/#/swap?inputCurrency=0xe9e7cea3dedca5984780bafc599bd69add087d56&outputCurrency=0x56eab07247e3e6404ac90140F20bba61375d5C3C',
+          'https://swape.tapswap.finance/#/swap?inputCurrency=0xe9e7cea3dedca5984780bafc599bd69add087d56&outputCurrency=0x56eab07247e3e6404ac90140F20bba61375d5C3C',
       },
       {
         label: 'Liquidity',
         href:
-         'https://tapswape2.netlify.app/#/add/0xe9e7cea3dedca5984780bafc599bd69add087d56/0x56eab07247e3e6404ac90140F20bba61375d5C3C',
+         'https://swape.tapswap.finance/#/add/0xe9e7cea3dedca5984780bafc599bd69add087d56/0x56eab07247e3e6404ac90140F20bba61375d5C3C',
       },
       
     ],
@@ -49,7 +49,7 @@ const config: MenuEntry[] = [
       {
         label: 'Exchange',
         href:
-          'https://tapswapv1.netlify.app/#/swap',
+          'https://tapswapv1.netlify/#/swap',
       },
       {
         label: 'Liquidity',
@@ -65,29 +65,29 @@ const config: MenuEntry[] = [
       {
         label: 'Exchange',
         href:
-          'https://pancakeV2.netlify.app/#/swap/swap?inputCurrency=0xe9e7cea3dedca5984780bafc599bd69add087d56&outputCurrency=0x56eab07247e3e6404ac90140F20bba61375d5C3C',
+          'https://pancakeswapv2.tapswap.finance/#/swap/swap?inputCurrency=0xe9e7cea3dedca5984780bafc599bd69add087d56&outputCurrency=0x56eab07247e3e6404ac90140F20bba61375d5C3C',
       },
       {
         label: 'Liquidity',
         href:
-          'https://pancakeV2.netlify.app/#/add/0xe9e7cea3dedca5984780bafc599bd69add087d56/0x56eab07247e3e6404ac90140F20bba61375d5C3C',
+          'https://pancakeswapv2.tapwswap.finance/#/add/0xe9e7cea3dedca5984780bafc599bd69add087d56/0x56eab07247e3e6404ac90140F20bba61375d5C3C',
       },
     ],
   },
   {
     label: 'Lake Farms',
     icon: 'FarmIcon',
-    href: 'https://pancakeswapv2.tapswap.finance/#/farms',
+    href: 'https://dapp.tapswap.finance/#/farms',
   },
   {
     label: 'Oasis Pools',
     icon: 'PoolIcon',
-    href: 'https://pancakeswapv2.tapswap.finance/#/pools',
+    href: 'https://dapp.tapswap.finance/#/pools',
   },
   {
     label: 'Smart Faucet',
     icon: 'BushIcon',
-    href: 'https://pancakeswapv2.tapswap.finance/#/bush',
+    href: 'https://dapp.tapswap.finance/#/bush',
   },
   // {
   //   label: 'Techrate Audit',
@@ -165,7 +165,7 @@ const config: MenuEntry[] = [
       // },
       {
         label: 'Github',
-        href: 'https://github.com/tapswapmoney/Tapswap/',
+        href: 'https://github.com/tapswapdex/',
         target: '_blank',
       },
       // {
@@ -185,7 +185,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'Telegram',
-        href: 'https://t.me/tapswapchat',
+        href: 'https://t.me/tapswapdex',
         target: '_blank',
       },
     ],
