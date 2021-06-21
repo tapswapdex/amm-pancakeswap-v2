@@ -164,11 +164,11 @@ const config: MenuEntry[] = [
         href: 'https://github.com/tapswapdex/',
         target: '_blank',
       },
-      // {
-      //   label: 'Docs',
-      //   href: 'https://doc.tapswap.money/',
-      //   target: '_blank',
-      // },
+      {
+        label: 'Docs',
+        href: 'https://tapswapmoney.gitbook.io/tapswap-dex/',
+        target: '_blank',
+      },
       {
         label: 'Blog',
         href: 'https://tapswapmoneydex.medium.com/',
